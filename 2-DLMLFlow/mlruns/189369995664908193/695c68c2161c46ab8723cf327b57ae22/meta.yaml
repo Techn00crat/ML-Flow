@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPs/MLFLOW/2-DLMLFlow/mlruns/189369995664908193/695c68c2161c46ab8723cf327b57ae22/artifacts
+end_time: 1745773168684
+entry_point_name: ''
+experiment_id: '189369995664908193'
+lifecycle_stage: active
+run_id: 695c68c2161c46ab8723cf327b57ae22
+run_name: upset-fawn-356
+run_uuid: 695c68c2161c46ab8723cf327b57ae22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745773153471
+status: 3
+tags: []
+user_id: rajpu

@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/MLOPs/MLFLOW/2-DLMLFlow/mlruns/189369995664908193/0cfe6290e0ce47958402345d59432b7d/artifacts
+deleted_time: 1745773292923
+end_time: 1745772976731
+entry_point_name: ''
+experiment_id: '189369995664908193'
+lifecycle_stage: deleted
+run_id: 0cfe6290e0ce47958402345d59432b7d
+run_name: calm-fawn-807
+run_uuid: 0cfe6290e0ce47958402345d59432b7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745772976625
+status: 4
+tags: []
+user_id: rajpu
