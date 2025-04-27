@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3a2c5dd8b53847b3b17974fc105f8268/artifacts
+end_time: 1745594298006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a2c5dd8b53847b3b17974fc105f8268
+run_name: marvelous-calf-314
+run_uuid: 3a2c5dd8b53847b3b17974fc105f8268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745594199619
+status: 4
+tags: []
+user_id: rajpu

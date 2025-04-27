@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278257936357084962/97dd670f71294f8db3fa9daacdd1350f/artifacts
+end_time: 1745555963439
+entry_point_name: ''
+experiment_id: '278257936357084962'
+lifecycle_stage: active
+run_id: 97dd670f71294f8db3fa9daacdd1350f
+run_name: sneaky-newt-920
+run_uuid: 97dd670f71294f8db3fa9daacdd1350f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745555954030
+status: 3
+tags: []
+user_id: rajpu

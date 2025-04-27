@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745594297883
+current_stage: None
+description: ''
+last_updated_timestamp: 1745594297883
+name: CaliforniaHousingModel
+run_id: 3a2c5dd8b53847b3b17974fc105f8268
+run_link: ''
+source: mlflow-artifacts:/0/3a2c5dd8b53847b3b17974fc105f8268/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/3a2c5dd8b53847b3b17974fc105f8268/artifacts/model
+user_id: null
+version: 1

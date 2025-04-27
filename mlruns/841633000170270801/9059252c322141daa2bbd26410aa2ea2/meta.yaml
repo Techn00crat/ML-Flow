@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841633000170270801/9059252c322141daa2bbd26410aa2ea2/artifacts
+end_time: 1745468853665
+entry_point_name: ''
+experiment_id: '841633000170270801'
+lifecycle_stage: active
+run_id: 9059252c322141daa2bbd26410aa2ea2
+run_name: spiffy-duck-926
+run_uuid: 9059252c322141daa2bbd26410aa2ea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745468853553
+status: 3
+tags: []
+user_id: rajpu

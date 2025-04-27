@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841633000170270801/cfe9a6dd308c43c7b7159f6bb44825e1/artifacts
+end_time: 1745550424586
+entry_point_name: ''
+experiment_id: '841633000170270801'
+lifecycle_stage: active
+run_id: cfe9a6dd308c43c7b7159f6bb44825e1
+run_name: handsome-asp-820
+run_uuid: cfe9a6dd308c43c7b7159f6bb44825e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745550424477
+status: 3
+tags: []
+user_id: rajpu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841633000170270801/5151ba43efcd43ec897dcd45d17d9883/artifacts
+end_time: 1745550435159
+entry_point_name: ''
+experiment_id: '841633000170270801'
+lifecycle_stage: active
+run_id: 5151ba43efcd43ec897dcd45d17d9883
+run_name: fearless-moose-19
+run_uuid: 5151ba43efcd43ec897dcd45d17d9883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745550435083
+status: 3
+tags: []
+user_id: rajpu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/841633000170270801/660174a091e84aea9131af671cc2b83d/artifacts
+end_time: 1745468979888
+entry_point_name: ''
+experiment_id: '841633000170270801'
+lifecycle_stage: active
+run_id: 660174a091e84aea9131af671cc2b83d
+run_name: dapper-slug-388
+run_uuid: 660174a091e84aea9131af671cc2b83d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745468979782
+status: 3
+tags: []
+user_id: rajpu

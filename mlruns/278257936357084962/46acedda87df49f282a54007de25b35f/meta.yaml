@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278257936357084962/46acedda87df49f282a54007de25b35f/artifacts
+end_time: 1745581513911
+entry_point_name: ''
+experiment_id: '278257936357084962'
+lifecycle_stage: active
+run_id: 46acedda87df49f282a54007de25b35f
+run_name: fun-hound-506
+run_uuid: 46acedda87df49f282a54007de25b35f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745581508818
+status: 3
+tags: []
+user_id: rajpu

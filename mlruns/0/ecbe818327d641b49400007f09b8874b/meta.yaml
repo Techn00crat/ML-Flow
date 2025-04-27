@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ecbe818327d641b49400007f09b8874b/artifacts
+end_time: 1745594410524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecbe818327d641b49400007f09b8874b
+run_name: monumental-sow-724
+run_uuid: ecbe818327d641b49400007f09b8874b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745594317521
+status: 3
+tags: []
+user_id: rajpu

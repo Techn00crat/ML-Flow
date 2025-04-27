@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278257936357084962/37b1787b6c8147088c4ae5a499ed234b/artifacts
+end_time: 1745581782444
+entry_point_name: ''
+experiment_id: '278257936357084962'
+lifecycle_stage: active
+run_id: 37b1787b6c8147088c4ae5a499ed234b
+run_name: inquisitive-toad-453
+run_uuid: 37b1787b6c8147088c4ae5a499ed234b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745581777917
+status: 3
+tags: []
+user_id: rajpu

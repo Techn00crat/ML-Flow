@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278257936357084962/840dfbfd09b2439496654a02bbb87ea0/artifacts
+end_time: 1745581508580
+entry_point_name: ''
+experiment_id: '278257936357084962'
+lifecycle_stage: active
+run_id: 840dfbfd09b2439496654a02bbb87ea0
+run_name: illustrious-shad-629
+run_uuid: 840dfbfd09b2439496654a02bbb87ea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745581501870
+status: 3
+tags: []
+user_id: rajpu
